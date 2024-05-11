@@ -1,0 +1,993 @@
+    [
+        {
+        "name": "All-Purpose Cleaner",
+        "category": "Surface Cleaner",
+        "description": "A versatile cleaner suitable for a wide range of surfaces. Effectively removes stains and dirt, leaving a fresh scent.",
+        "price": 9.99,
+        "features": [
+            { "name": "Multi-surface", "description": "Versatile cleaning solution suitable for various surfaces." },
+            { "name": "Stain removal", "description": "Effectively removes stains from surfaces." },
+            { "name": "Fresh scent", "description": "Leaves a pleasant and fresh fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Glass Cleaner",
+        "category": "Glass Care",
+        "description": "Formulated for a streak-free shine on glass surfaces. Achieves a crystal-clear finish and dries quickly.",
+        "price": 7.49,
+        "features": [
+            { "name": "Streak-free", "description": "Provides a clear shine on glass surfaces." },
+            { "name": "Crystal clear", "description": "Enhances the transparency of glass." },
+            { "name": "Quick-drying", "description": "Dries rapidly, saving time and leaving surfaces sparkling clean." }
+        ]
+        },
+        {
+        "name": "Floor Cleaner",
+        "category": "Floor Care",
+        "description": "Specially designed to protect and maintain the quality of different types of floors. Effectively removes stains and spills, leaving a refreshing fragrance.",
+        "price": 12.99,
+        "features": [
+            { "name": "Floor protection", "description": "Specially designed to protect and maintain the quality of different types of floors." },
+            { "name": "Stain removal", "description": "Effectively removes stains and spills from floors." },
+            { "name": "Refreshing fragrance", "description": "Leaves a refreshing and pleasant fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Bathroom Cleaner",
+        "category": "Bathroom Care",
+        "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment. Effectively removes and prevents mold, leaving a fresh scent.",
+        "price": 8.99,
+        "features": [
+            { "name": "Disinfecting", "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment." },
+            { "name": "Mold removal", "description": "Effectively removes and prevents mold in the bathroom." },
+            { "name": "Fresh scent", "description": "Leaves a fresh and clean aroma after use." }
+        ]
+        },
+        {
+        "name": "Stainless Steel Polish",
+        "category": "Metal Care",
+        "description": "Polishes and protects stainless steel surfaces from corrosion and damage. Resists fingerprints and provides a high-gloss shine.",
+        "price": 14.99,
+        "features": [
+            { "name": "Stainless steel protection", "description": "Polishes and protects stainless steel surfaces from corrosion and damage." },
+            { "name": "Fingerprint-resistant", "description": "Resists fingerprints, keeping surfaces looking clean." },
+            { "name": "High shine", "description": "Provides a high-gloss shine, enhancing the appearance of stainless steel." }
+        ]
+        },
+        {
+        "name": "Odor Eliminator",
+        "category": "Air Care",
+        "description": "Neutralizes and eliminates unpleasant odors, leaving a clean and fresh atmosphere. Provides long-lasting freshness and is safe for all surfaces.",
+        "price": 6.79,
+        "features": [
+            { "name": "Odor neutralization", "description": "Neutralizes and eliminates unpleasant odors." },
+            { "name": "Long-lasting freshness", "description": "Provides long-lasting freshness that lingers in the air." },
+            { "name": "Safe for all surfaces", "description": "Can be safely used on various surfaces without causing damage." }
+        ]
+        },
+        {
+        "name": "All-Purpose Cleaner",
+        "category": "Surface Cleaner",
+        "description": "A versatile cleaner suitable for a wide range of surfaces. Effectively removes stains and dirt, leaving a fresh scent.",
+        "price": 15.99,
+        "features": [
+            { "name": "Multi-surface", "description": "Versatile cleaning solution suitable for various surfaces." },
+            { "name": "Stain removal", "description": "Effectively removes stains from surfaces." },
+            { "name": "Fresh scent", "description": "Leaves a pleasant and fresh fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Glass Cleaner",
+        "category": "Glass Care",
+        "description": "Formulated for a streak-free shine on glass surfaces. Achieves a crystal-clear finish and dries quickly.",
+        "price": 20.49,
+        "features": [
+            { "name": "Streak-free", "description": "Provides a clear shine on glass surfaces." },
+            { "name": "Crystal clear", "description": "Enhances the transparency of glass." },
+            { "name": "Quick-drying", "description": "Dries rapidly, saving time and leaving surfaces sparkling clean." }
+        ]
+        },
+        {
+        "name": "Floor Cleaner",
+        "category": "Floor Care",
+        "description": "Specially designed to protect and maintain the quality of different types of floors. Effectively removes stains and spills, leaving a refreshing fragrance.",
+        "price": 21.99,
+        "features": [
+            { "name": "Floor protection", "description": "Specially designed to protect and maintain the quality of different types of floors." },
+            { "name": "Stain removal", "description": "Effectively removes stains and spills from floors." },
+            { "name": "Refreshing fragrance", "description": "Leaves a refreshing and pleasant fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Bathroom Cleaner",
+        "category": "Bathroom Care",
+        "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment. Effectively removes and prevents mold, leaving a fresh scent.",
+        "price": 22.99,
+        "features": [
+            { "name": "Disinfecting", "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment." },
+            { "name": "Mold removal", "description": "Effectively removes and prevents mold in the bathroom." },
+            { "name": "Fresh scent", "description": "Leaves a fresh and clean aroma after use." }
+        ]
+        },
+        {
+        "name": "Stainless Steel Polish",
+        "category": "Metal Care",
+        "description": "Polishes and protects stainless steel surfaces from corrosion and damage. Resists fingerprints and provides a high-gloss shine.",
+        "price": 23.99,
+        "features": [
+            { "name": "Stainless steel protection", "description": "Polishes and protects stainless steel surfaces from corrosion and damage." },
+            { "name": "Fingerprint-resistant", "description": "Resists fingerprints, keeping surfaces looking clean." },
+            { "name": "High shine", "description": "Provides a high-gloss shine, enhancing the appearance of stainless steel." }
+        ]
+        },
+        {
+        "name": "Odor Eliminator",
+        "category": "Air Care",
+        "description": "Neutralizes and eliminates unpleasant odors, leaving a clean and fresh atmosphere. Provides long-lasting freshness and is safe for all surfaces.",
+        "price": 24.79,
+        "features": [
+            { "name": "Odor neutralization", "description": "Neutralizes and eliminates unpleasant odors." },
+            { "name": "Long-lasting freshness", "description": "Provides long-lasting freshness that lingers in the air." },
+            { "name": "Safe for all surfaces", "description": "Can be safely used on various surfaces without causing damage." }
+        ]
+        },
+        {
+        "name": "All-Purpose Cleaner",
+        "category": "Surface Cleaner",
+        "description": "A versatile cleaner suitable for a wide range of surfaces. Effectively removes stains and dirt, leaving a fresh scent.",
+        "price": 25.99,
+        "features": [
+            { "name": "Multi-surface", "description": "Versatile cleaning solution suitable for various surfaces." },
+            { "name": "Stain removal", "description": "Effectively removes stains from surfaces." },
+            { "name": "Fresh scent", "description": "Leaves a pleasant and fresh fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Glass Cleaner",
+        "category": "Glass Care",
+        "description": "Formulated for a streak-free shine on glass surfaces. Achieves a crystal-clear finish and dries quickly.",
+        "price": 26.49,
+        "features": [
+            { "name": "Streak-free", "description": "Provides a clear shine on glass surfaces." },
+            { "name": "Crystal clear", "description": "Enhances the transparency of glass." },
+            { "name": "Quick-drying", "description": "Dries rapidly, saving time and leaving surfaces sparkling clean." }
+        ]
+        },
+        {
+        "name": "Floor Cleaner",
+        "category": "Floor Care",
+        "description": "Specially designed to protect and maintain the quality of different types of floors. Effectively removes stains and spills, leaving a refreshing fragrance.",
+        "price": 27.99,
+        "features": [
+            { "name": "Floor protection", "description": "Specially designed to protect and maintain the quality of different types of floors." },
+            { "name": "Stain removal", "description": "Effectively removes stains and spills from floors." },
+            { "name": "Refreshing fragrance", "description": "Leaves a refreshing and pleasant fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Bathroom Cleaner",
+        "category": "Bathroom Care",
+        "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment. Effectively removes and prevents mold, leaving a fresh scent.",
+        "price": 28.99,
+        "features": [
+            { "name": "Disinfecting", "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment." },
+            { "name": "Mold removal", "description": "Effectively removes and prevents mold in the bathroom." },
+            { "name": "Fresh scent", "description": "Leaves a fresh and clean aroma after use." }
+        ]
+        },
+        {
+        "name": "Stainless Steel Polish",
+        "category": "Metal Care",
+        "description": "Polishes and protects stainless steel surfaces from corrosion and damage. Resists fingerprints and provides a high-gloss shine.",
+        "price": 29.99,
+        "features": [
+            { "name": "Stainless steel protection", "description": "Polishes and protects stainless steel surfaces from corrosion and damage." },
+            { "name": "Fingerprint-resistant", "description": "Resists fingerprints, keeping surfaces looking clean." },
+            { "name": "High shine", "description": "Provides a high-gloss shine, enhancing the appearance of stainless steel." }
+        ]
+        },
+        {
+        "name": "Odor Eliminator",
+        "category": "Air Care",
+        "description": "Neutralizes and eliminates unpleasant odors, leaving a clean and fresh atmosphere. Provides long-lasting freshness and is safe for all surfaces.",
+        "price": 30.79,
+        "features": [
+            { "name": "Odor neutralization", "description": "Neutralizes and eliminates unpleasant odors." },
+            { "name": "Long-lasting freshness", "description": "Provides long-lasting freshness that lingers in the air." },
+            { "name": "Safe for all surfaces", "description": "Can be safely used on various surfaces without causing damage." }
+        ]
+        },
+        {
+        "name": "All-Purpose Cleaner",
+        "category": "Surface Cleaner",
+        "description": "A versatile cleaner suitable for a wide range of surfaces. Effectively removes stains and dirt, leaving a fresh scent.",
+        "price": 31.99,
+        "features": [
+            { "name": "Multi-surface", "description": "Versatile cleaning solution suitable for various surfaces." },
+            { "name": "Stain removal", "description": "Effectively removes stains from surfaces." },
+            { "name": "Fresh scent", "description": "Leaves a pleasant and fresh fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Glass Cleaner",
+        "category": "Glass Care",
+        "description": "Formulated for a streak-free shine on glass surfaces. Achieves a crystal-clear finish and dries quickly.",
+        "price": 32.49,
+        "features": [
+            { "name": "Streak-free", "description": "Provides a clear shine on glass surfaces." },
+            { "name": "Crystal clear", "description": "Enhances the transparency of glass." },
+            { "name": "Quick-drying", "description": "Dries rapidly, saving time and leaving surfaces sparkling clean." }
+        ]
+        },
+        {
+        "name": "Floor Cleaner",
+        "category": "Floor Care",
+        "description": "Specially designed to protect and maintain the quality of different types of floors. Effectively removes stains and spills, leaving a refreshing fragrance.",
+        "price": 33.99,
+        "features": [
+            { "name": "Floor protection", "description": "Specially designed to protect and maintain the quality of different types of floors." },
+            { "name": "Stain removal", "description": "Effectively removes stains and spills from floors." },
+            { "name": "Refreshing fragrance", "description": "Leaves a refreshing and pleasant fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Bathroom Cleaner",
+        "category": "Bathroom Care",
+        "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment. Effectively removes and prevents mold, leaving a fresh scent.",
+        "price": 34.99,
+        "features": [
+            { "name": "Disinfecting", "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment." },
+            { "name": "Mold removal", "description": "Effectively removes and prevents mold in the bathroom." },
+            { "name": "Fresh scent", "description": "Leaves a fresh and clean aroma after use." }
+        ]
+        },
+        {
+        "name": "Stainless Steel Polish",
+        "category": "Metal Care",
+        "description": "Polishes and protects stainless steel surfaces from corrosion and damage. Resists fingerprints and provides a high-gloss shine.",
+        "price": 35.99,
+        "features": [
+            { "name": "Stainless steel protection", "description": "Polishes and protects stainless steel surfaces from corrosion and damage." },
+            { "name": "Fingerprint-resistant", "description": "Resists fingerprints, keeping surfaces looking clean." },
+            { "name": "High shine", "description": "Provides a high-gloss shine, enhancing the appearance of stainless steel." }
+        ]
+        },
+        {
+        "name": "Odor Eliminator",
+        "category": "Air Care",
+        "description": "Neutralizes and eliminates unpleasant odors, leaving a clean and fresh atmosphere. Provides long-lasting freshness and is safe for all surfaces.",
+        "price": 36.79,
+        "features": [
+            { "name": "Odor neutralization", "description": "Neutralizes and eliminates unpleasant odors." },
+            { "name": "Long-lasting freshness", "description": "Provides long-lasting freshness that lingers in the air." },
+            { "name": "Safe for all surfaces", "description": "Can be safely used on various surfaces without causing damage." }
+        ]
+        },
+        {
+        "name": "All-Purpose Cleaner",
+        "category": "Surface Cleaner",
+        "description": "A versatile cleaner suitable for a wide range of surfaces. Effectively removes stains and dirt, leaving a fresh scent.",
+        "price": 37.99,
+        "features": [
+            { "name": "Multi-surface", "description": "Versatile cleaning solution suitable for various surfaces." },
+            { "name": "Stain removal", "description": "Effectively removes stains from surfaces." },
+            { "name": "Fresh scent", "description": "Leaves a pleasant and fresh fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Glass Cleaner",
+        "category": "Glass Care",
+        "description": "Formulated for a streak-free shine on glass surfaces. Achieves a crystal-clear finish and dries quickly.",
+        "price": 38.49,
+        "features": [
+            { "name": "Streak-free", "description": "Provides a clear shine on glass surfaces." },
+            { "name": "Crystal clear", "description": "Enhances the transparency of glass." },
+            { "name": "Quick-drying", "description": "Dries rapidly, saving time and leaving surfaces sparkling clean." }
+        ]
+        },
+        {
+        "name": "Floor Cleaner",
+        "category": "Floor Care",
+        "description": "Specially designed to protect and maintain the quality of different types of floors. Effectively removes stains and spills, leaving a refreshing fragrance.",
+        "price": 39.99,
+        "features": [
+            { "name": "Floor protection", "description": "Specially designed to protect and maintain the quality of different types of floors." },
+            { "name": "Stain removal", "description": "Effectively removes stains and spills from floors." },
+            { "name": "Refreshing fragrance", "description": "Leaves a refreshing and pleasant fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Bathroom Cleaner",
+        "category": "Bathroom Care",
+        "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment. Effectively removes and prevents mold, leaving a fresh scent.",
+        "price": 40.99,
+        "features": [
+            { "name": "Disinfecting", "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment." },
+            { "name": "Mold removal", "description": "Effectively removes and prevents mold in the bathroom." },
+            { "name": "Fresh scent", "description": "Leaves a fresh and clean aroma after use." }
+        ]
+        },
+        {
+        "name": "Stainless Steel Polish",
+        "category": "Metal Care",
+        "description": "Polishes and protects stainless steel surfaces from corrosion and damage. Resists fingerprints and provides a high-gloss shine.",
+        "price": 41.99,
+        "features": [
+            { "name": "Stainless steel protection", "description": "Polishes and protects stainless steel surfaces from corrosion and damage." },
+            { "name": "Fingerprint-resistant", "description": "Resists fingerprints, keeping surfaces looking clean." },
+            { "name": "High shine", "description": "Provides a high-gloss shine, enhancing the appearance of stainless steel." }
+        ]
+        },
+        {
+        "name": "Odor Eliminator",
+        "category": "Air Care",
+        "description": "Neutralizes and eliminates unpleasant odors, leaving a clean and fresh atmosphere. Provides long-lasting freshness and is safe for all surfaces.",
+        "price": 42.79,
+        "features": [
+            { "name": "Odor neutralization", "description": "Neutralizes and eliminates unpleasant odors." },
+            { "name": "Long-lasting freshness", "description": "Provides long-lasting freshness that lingers in the air." },
+            { "name": "Safe for all surfaces", "description": "Can be safely used on various surfaces without causing damage." }
+        ]
+        },
+        {
+        "name": "All-Purpose Cleaner",
+        "category": "Surface Cleaner",
+        "description": "A versatile cleaner suitable for a wide range of surfaces. Effectively removes stains and dirt, leaving a fresh scent.",
+        "price": 43.99,
+        "features": [
+            { "name": "Multi-surface", "description": "Versatile cleaning solution suitable for various surfaces." },
+            { "name": "Stain removal", "description": "Effectively removes stains from surfaces." },
+            { "name": "Fresh scent", "description": "Leaves a pleasant and fresh fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Glass Cleaner",
+        "category": "Glass Care",
+        "description": "Formulated for a streak-free shine on glass surfaces. Achieves a crystal-clear finish and dries quickly.",
+        "price": 44.49,
+        "features": [
+            { "name": "Streak-free", "description": "Provides a clear shine on glass surfaces." },
+            { "name": "Crystal clear", "description": "Enhances the transparency of glass." },
+            { "name": "Quick-drying", "description": "Dries rapidly, saving time and leaving surfaces sparkling clean." }
+        ]
+        },
+        {
+        "name": "Floor Cleaner",
+        "category": "Floor Care",
+        "description": "Specially designed to protect and maintain the quality of different types of floors. Effectively removes stains and spills, leaving a refreshing fragrance.",
+        "price": 45.99,
+        "features": [
+            { "name": "Floor protection", "description": "Specially designed to protect and maintain the quality of different types of floors." },
+            { "name": "Stain removal", "description": "Effectively removes stains and spills from floors." },
+            { "name": "Refreshing fragrance", "description": "Leaves a refreshing and pleasant fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Bathroom Cleaner",
+        "category": "Bathroom Care",
+        "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment. Effectively removes and prevents mold, leaving a fresh scent.",
+        "price": 46.99,
+        "features": [
+            { "name": "Disinfecting", "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment." },
+            { "name": "Mold removal", "description": "Effectively removes and prevents mold in the bathroom." },
+            { "name": "Fresh scent", "description": "Leaves a fresh and clean aroma after use." }
+        ]
+        },
+        {
+        "name": "Stainless Steel Polish",
+        "category": "Metal Care",
+        "description": "Polishes and protects stainless steel surfaces from corrosion and damage. Resists fingerprints and provides a high-gloss shine.",
+        "price": 47.99,
+        "features": [
+            { "name": "Stainless steel protection", "description": "Polishes and protects stainless steel surfaces from corrosion and damage." },
+            { "name": "Fingerprint-resistant", "description": "Resists fingerprints, keeping surfaces looking clean." },
+            { "name": "High shine", "description": "Provides a high-gloss shine, enhancing the appearance of stainless steel." }
+        ]
+        },
+        {
+        "name": "Odor Eliminator",
+        "category": "Air Care",
+        "description": "Neutralizes and eliminates unpleasant odors, leaving a clean and fresh atmosphere. Provides long-lasting freshness and is safe for all surfaces.",
+        "price": 48.79,
+        "features": [
+            { "name": "Odor neutralization", "description": "Neutralizes and eliminates unpleasant odors." },
+            { "name": "Long-lasting freshness", "description": "Provides long-lasting freshness that lingers in the air." },
+            { "name": "Safe for all surfaces", "description": "Can be safely used on various surfaces without causing damage." }
+        ]
+        },
+        {
+        "name": "All-Purpose Cleaner",
+        "category": "Surface Cleaner",
+        "description": "A versatile cleaner suitable for a wide range of surfaces. Effectively removes stains and dirt, leaving a fresh scent.",
+        "price": 49.99,
+        "features": [
+            { "name": "Multi-surface", "description": "Versatile cleaning solution suitable for various surfaces." },
+            { "name": "Stain removal", "description": "Effectively removes stains from surfaces." },
+            { "name": "Fresh scent", "description": "Leaves a pleasant and fresh fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Glass Cleaner",
+        "category": "Glass Care",
+        "description": "Formulated for a streak-free shine on glass surfaces. Achieves a crystal-clear finish and dries quickly.",
+        "price": 50.49,
+        "features": [
+            { "name": "Streak-free", "description": "Provides a clear shine on glass surfaces." },
+            { "name": "Crystal clear", "description": "Enhances the transparency of glass." },
+            { "name": "Quick-drying", "description": "Dries rapidly, saving time and leaving surfaces sparkling clean." }
+        ]
+        },
+        {
+        "name": "Floor Cleaner",
+        "category": "Floor Care",
+        "description": "Specially designed to protect and maintain the quality of different types of floors. Effectively removes stains and spills, leaving a refreshing fragrance.",
+        "price": 51.99,
+        "features": [
+            { "name": "Floor protection", "description": "Specially designed to protect and maintain the quality of different types of floors." },
+            { "name": "Stain removal", "description": "Effectively removes stains and spills from floors." },
+            { "name": "Refreshing fragrance", "description": "Leaves a refreshing and pleasant fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Bathroom Cleaner",
+        "category": "Bathroom Care",
+        "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment. Effectively removes and prevents mold, leaving a fresh scent.",
+        "price": 52.99,
+        "features": [
+            { "name": "Disinfecting", "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment." },
+            { "name": "Mold removal", "description": "Effectively removes and prevents mold in the bathroom." },
+            { "name": "Fresh scent", "description": "Leaves a fresh and clean aroma after use." }
+        ]
+        },
+        {
+        "name": "Stainless Steel Polish",
+        "category": "Metal Care",
+        "description": "Polishes and protects stainless steel surfaces from corrosion and damage. Resists fingerprints and provides a high-gloss shine.",
+        "price": 53.99,
+        "features": [
+            { "name": "Stainless steel protection", "description": "Polishes and protects stainless steel surfaces from corrosion and damage." },
+            { "name": "Fingerprint-resistant", "description": "Resists fingerprints, keeping surfaces looking clean." },
+            { "name": "High shine", "description": "Provides a high-gloss shine, enhancing the appearance of stainless steel." }
+        ]
+        },
+        {
+        "name": "Odor Eliminator",
+        "category": "Air Care",
+        "description": "Neutralizes and eliminates unpleasant odors, leaving a clean and fresh atmosphere. Provides long-lasting freshness and is safe for all surfaces.",
+        "price": 54.79,
+        "features": [
+            { "name": "Odor neutralization", "description": "Neutralizes and eliminates unpleasant odors." },
+            { "name": "Long-lasting freshness", "description": "Provides long-lasting freshness that lingers in the air." },
+            { "name": "Safe for all surfaces", "description": "Can be safely used on various surfaces without causing damage." }
+        ]
+        },
+        {
+        "name": "All-Purpose Cleaner",
+        "category": "Surface Cleaner",
+        "description": "A versatile cleaner suitable for a wide range of surfaces. Effectively removes stains and dirt, leaving a fresh scent.",
+        "price": 55.99,
+        "features": [
+            { "name": "Multi-surface", "description": "Versatile cleaning solution suitable for various surfaces." },
+            { "name": "Stain removal", "description": "Effectively removes stains from surfaces." },
+            { "name": "Fresh scent", "description": "Leaves a pleasant and fresh fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Glass Cleaner",
+        "category": "Glass Care",
+        "description": "Formulated for a streak-free shine on glass surfaces. Achieves a crystal-clear finish and dries quickly.",
+        "price": 56.49,
+        "features": [
+            { "name": "Streak-free", "description": "Provides a clear shine on glass surfaces." },
+            { "name": "Crystal clear", "description": "Enhances the transparency of glass." },
+            { "name": "Quick-drying", "description": "Dries rapidly, saving time and leaving surfaces sparkling clean." }
+        ]
+        },
+        {
+        "name": "Floor Cleaner",
+        "category": "Floor Care",
+        "description": "Specially designed to protect and maintain the quality of different types of floors. Effectively removes stains and spills, leaving a refreshing fragrance.",
+        "price": 57.99,
+        "features": [
+            { "name": "Floor protection", "description": "Specially designed to protect and maintain the quality of different types of floors." },
+            { "name": "Stain removal", "description": "Effectively removes stains and spills from floors." },
+            { "name": "Refreshing fragrance", "description": "Leaves a refreshing and pleasant fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Bathroom Cleaner",
+        "category": "Bathroom Care",
+        "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment. Effectively removes and prevents mold, leaving a fresh scent.",
+        "price": 58.99,
+        "features": [
+            { "name": "Disinfecting", "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment." },
+            { "name": "Mold removal", "description": "Effectively removes and prevents mold in the bathroom." },
+            { "name": "Fresh scent", "description": "Leaves a fresh and clean aroma after use." }
+        ]
+        },
+        {
+        "name": "Stainless Steel Polish",
+        "category": "Metal Care",
+        "description": "Polishes and protects stainless steel surfaces from corrosion and damage. Resists fingerprints and provides a high-gloss shine.",
+        "price": 59.99,
+        "features": [
+            { "name": "Stainless steel protection", "description": "Polishes and protects stainless steel surfaces from corrosion and damage." },
+            { "name": "Fingerprint-resistant", "description": "Resists fingerprints, keeping surfaces looking clean." },
+            { "name": "High shine", "description": "Provides a high-gloss shine, enhancing the appearance of stainless steel." }
+        ]
+        },
+        {
+        "name": "Odor Eliminator",
+        "category": "Air Care",
+        "description": "Neutralizes and eliminates unpleasant odors, leaving a clean and fresh atmosphere. Provides long-lasting freshness and is safe for all surfaces.",
+        "price": 60.79,
+        "features": [
+            { "name": "Odor neutralization", "description": "Neutralizes and eliminates unpleasant odors." },
+            { "name": "Long-lasting freshness", "description": "Provides long-lasting freshness that lingers in the air." },
+            { "name": "Safe for all surfaces", "description": "Can be safely used on various surfaces without causing damage." }
+        ]
+        },
+        {
+        "name": "All-Purpose Cleaner",
+        "category": "Surface Cleaner",
+        "description": "A versatile cleaner suitable for a wide range of surfaces. Effectively removes stains and dirt, leaving a fresh scent.",
+        "price": 61.99,
+        "features": [
+            { "name": "Multi-surface", "description": "Versatile cleaning solution suitable for various surfaces." },
+            { "name": "Stain removal", "description": "Effectively removes stains from surfaces." },
+            { "name": "Fresh scent", "description": "Leaves a pleasant and fresh fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Glass Cleaner",
+        "category": "Glass Care",
+        "description": "Formulated for a streak-free shine on glass surfaces. Achieves a crystal-clear finish and dries quickly.",
+        "price": 62.49,
+        "features": [
+            { "name": "Streak-free", "description": "Provides a clear shine on glass surfaces." },
+            { "name": "Crystal clear", "description": "Enhances the transparency of glass." },
+            { "name": "Quick-drying", "description": "Dries rapidly, saving time and leaving surfaces sparkling clean." }
+        ]
+        },
+        {
+        "name": "Floor Cleaner",
+        "category": "Floor Care",
+        "description": "Specially designed to protect and maintain the quality of different types of floors. Effectively removes stains and spills, leaving a refreshing fragrance.",
+        "price": 63.99,
+        "features": [
+            { "name": "Floor protection", "description": "Specially designed to protect and maintain the quality of different types of floors." },
+            { "name": "Stain removal", "description": "Effectively removes stains and spills from floors." },
+            { "name": "Refreshing fragrance", "description": "Leaves a refreshing and pleasant fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Bathroom Cleaner",
+        "category": "Bathroom Care",
+        "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment. Effectively removes and prevents mold, leaving a fresh scent.",
+        "price": 64.99,
+        "features": [
+            { "name": "Disinfecting", "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment." },
+            { "name": "Mold removal", "description": "Effectively removes and prevents mold in the bathroom." },
+            { "name": "Fresh scent", "description": "Leaves a fresh and clean aroma after use." }
+        ]
+        },
+        {
+        "name": "Stainless Steel Polish",
+        "category": "Metal Care",
+        "description": "Polishes and protects stainless steel surfaces from corrosion and damage. Resists fingerprints and provides a high-gloss shine.",
+        "price": 65.99,
+        "features": [
+            { "name": "Stainless steel protection", "description": "Polishes and protects stainless steel surfaces from corrosion and damage." },
+            { "name": "Fingerprint-resistant", "description": "Resists fingerprints, keeping surfaces looking clean." },
+            { "name": "High shine", "description": "Provides a high-gloss shine, enhancing the appearance of stainless steel." }
+        ]
+        },
+        {
+        "name": "Odor Eliminator",
+        "category": "Air Care",
+        "description": "Neutralizes and eliminates unpleasant odors, leaving a clean and fresh atmosphere. Provides long-lasting freshness and is safe for all surfaces.",
+        "price": 66.79,
+        "features": [
+            { "name": "Odor neutralization", "description": "Neutralizes and eliminates unpleasant odors." },
+            { "name": "Long-lasting freshness", "description": "Provides long-lasting freshness that lingers in the air." },
+            { "name": "Safe for all surfaces", "description": "Can be safely used on various surfaces without causing damage." }
+        ]
+        },
+        {
+        "name": "All-Purpose Cleaner",
+        "category": "Surface Cleaner",
+        "description": "A versatile cleaner suitable for a wide range of surfaces. Effectively removes stains and dirt, leaving a fresh scent.",
+        "price": 67.99,
+        "features": [
+            { "name": "Multi-surface", "description": "Versatile cleaning solution suitable for various surfaces." },
+            { "name": "Stain removal", "description": "Effectively removes stains from surfaces." },
+            { "name": "Fresh scent", "description": "Leaves a pleasant and fresh fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Glass Cleaner",
+        "category": "Glass Care",
+        "description": "Formulated for a streak-free shine on glass surfaces. Achieves a crystal-clear finish and dries quickly.",
+        "price": 68.49,
+        "features": [
+            { "name": "Streak-free", "description": "Provides a clear shine on glass surfaces." },
+            { "name": "Crystal clear", "description": "Enhances the transparency of glass." },
+            { "name": "Quick-drying", "description": "Dries rapidly, saving time and leaving surfaces sparkling clean." }
+        ]
+        },
+        {
+        "name": "Floor Cleaner",
+        "category": "Floor Care",
+        "description": "Specially designed to protect and maintain the quality of different types of floors. Effectively removes stains and spills, leaving a refreshing fragrance.",
+        "price": 69.99,
+        "features": [
+            { "name": "Floor protection", "description": "Specially designed to protect and maintain the quality of different types of floors." },
+            { "name": "Stain removal", "description": "Effectively removes stains and spills from floors." },
+            { "name": "Refreshing fragrance", "description": "Leaves a refreshing and pleasant fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Bathroom Cleaner",
+        "category": "Bathroom Care",
+        "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment. Effectively removes and prevents mold, leaving a fresh scent.",
+        "price": 70.99,
+        "features": [
+            { "name": "Disinfecting", "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment." },
+            { "name": "Mold removal", "description": "Effectively removes and prevents mold in the bathroom." },
+            { "name": "Fresh scent", "description": "Leaves a fresh and clean aroma after use." }
+        ]
+        },
+        {
+        "name": "Stainless Steel Polish",
+        "category": "Metal Care",
+        "description": "Polishes and protects stainless steel surfaces from corrosion and damage. Resists fingerprints and provides a high-gloss shine.",
+        "price": 71.99,
+        "features": [
+            { "name": "Stainless steel protection", "description": "Polishes and protects stainless steel surfaces from corrosion and damage." },
+            { "name": "Fingerprint-resistant", "description": "Resists fingerprints, keeping surfaces looking clean." },
+            { "name": "High shine", "description": "Provides a high-gloss shine, enhancing the appearance of stainless steel." }
+        ]
+        },
+        {
+        "name": "Odor Eliminator",
+        "category": "Air Care",
+        "description": "Neutralizes and eliminates unpleasant odors, leaving a clean and fresh atmosphere. Provides long-lasting freshness and is safe for all surfaces.",
+        "price": 72.79,
+        "features": [
+            { "name": "Odor neutralization", "description": "Neutralizes and eliminates unpleasant odors." },
+            { "name": "Long-lasting freshness", "description": "Provides long-lasting freshness that lingers in the air." },
+            { "name": "Safe for all surfaces", "description": "Can be safely used on various surfaces without causing damage." }
+        ]
+        },
+        {
+        "name": "All-Purpose Cleaner",
+        "category": "Surface Cleaner",
+        "description": "A versatile cleaner suitable for a wide range of surfaces. Effectively removes stains and dirt, leaving a fresh scent.",
+        "price": 73.99,
+        "features": [
+            { "name": "Multi-surface", "description": "Versatile cleaning solution suitable for various surfaces." },
+            { "name": "Stain removal", "description": "Effectively removes stains from surfaces." },
+            { "name": "Fresh scent", "description": "Leaves a pleasant and fresh fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Glass Cleaner",
+        "category": "Glass Care",
+        "description": "Formulated for a streak-free shine on glass surfaces. Achieves a crystal-clear finish and dries quickly.",
+        "price": 74.49,
+        "features": [
+            { "name": "Streak-free", "description": "Provides a clear shine on glass surfaces." },
+            { "name": "Crystal clear", "description": "Enhances the transparency of glass." },
+            { "name": "Quick-drying", "description": "Dries rapidly, saving time and leaving surfaces sparkling clean." }
+        ]
+        },
+        {
+        "name": "Floor Cleaner",
+        "category": "Floor Care",
+        "description": "Specially designed to protect and maintain the quality of different types of floors. Effectively removes stains and spills, leaving a refreshing fragrance.",
+        "price": 75.99,
+        "features": [
+            { "name": "Floor protection", "description": "Specially designed to protect and maintain the quality of different types of floors." },
+            { "name": "Stain removal", "description": "Effectively removes stains and spills from floors." },
+            { "name": "Refreshing fragrance", "description": "Leaves a refreshing and pleasant fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Bathroom Cleaner",
+        "category": "Bathroom Care",
+        "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment. Effectively removes and prevents mold, leaving a fresh scent.",
+        "price": 76.99,
+        "features": [
+            { "name": "Disinfecting", "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment." },
+            { "name": "Mold removal", "description": "Effectively removes and prevents mold in the bathroom." },
+            { "name": "Fresh scent", "description": "Leaves a fresh and clean aroma after use." }
+        ]
+        },
+        {
+        "name": "Stainless Steel Polish",
+        "category": "Metal Care",
+        "description": "Polishes and protects stainless steel surfaces from corrosion and damage. Resists fingerprints and provides a high-gloss shine.",
+        "price": 77.99,
+        "features": [
+            { "name": "Stainless steel protection", "description": "Polishes and protects stainless steel surfaces from corrosion and damage." },
+            { "name": "Fingerprint-resistant", "description": "Resists fingerprints, keeping surfaces looking clean." },
+            { "name": "High shine", "description": "Provides a high-gloss shine, enhancing the appearance of stainless steel." }
+        ]
+        },
+        {
+        "name": "Odor Eliminator",
+        "category": "Air Care",
+        "description": "Neutralizes and eliminates unpleasant odors, leaving a clean and fresh atmosphere. Provides long-lasting freshness and is safe for all surfaces.",
+        "price": 78.79,
+        "features": [
+            { "name": "Odor neutralization", "description": "Neutralizes and eliminates unpleasant odors." },
+            { "name": "Long-lasting freshness", "description": "Provides long-lasting freshness that lingers in the air." },
+            { "name": "Safe for all surfaces", "description": "Can be safely used on various surfaces without causing damage." }
+        ]
+        },
+        {
+        "name": "All-Purpose Cleaner",
+        "category": "Surface Cleaner",
+        "description": "A versatile cleaner suitable for a wide range of surfaces. Effectively removes stains and dirt, leaving a fresh scent.",
+        "price": 79.99,
+        "features": [
+            { "name": "Multi-surface", "description": "Versatile cleaning solution suitable for various surfaces." },
+            { "name": "Stain removal", "description": "Effectively removes stains from surfaces." },
+            { "name": "Fresh scent", "description": "Leaves a pleasant and fresh fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Glass Cleaner",
+        "category": "Glass Care",
+        "description": "Formulated for a streak-free shine on glass surfaces. Achieves a crystal-clear finish and dries quickly.",
+        "price": 80.49,
+        "features": [
+            { "name": "Streak-free", "description": "Provides a clear shine on glass surfaces." },
+            { "name": "Crystal clear", "description": "Enhances the transparency of glass." },
+            { "name": "Quick-drying", "description": "Dries rapidly, saving time and leaving surfaces sparkling clean." }
+        ]
+        },
+        {
+        "name": "Floor Cleaner",
+        "category": "Floor Care",
+        "description": "Specially designed to protect and maintain the quality of different types of floors. Effectively removes stains and spills, leaving a refreshing fragrance.",
+        "price": 81.99,
+        "features": [
+            { "name": "Floor protection", "description": "Specially designed to protect and maintain the quality of different types of floors." },
+            { "name": "Stain removal", "description": "Effectively removes stains and spills from floors." },
+            { "name": "Refreshing fragrance", "description": "Leaves a refreshing and pleasant fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Bathroom Cleaner",
+        "category": "Bathroom Care",
+        "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment. Effectively removes and prevents mold, leaving a fresh scent.",
+        "price": 82.99,
+        "features": [
+            { "name": "Disinfecting", "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment." },
+            { "name": "Mold removal", "description": "Effectively removes and prevents mold in the bathroom." },
+            { "name": "Fresh scent", "description": "Leaves a fresh and clean aroma after use." }
+        ]
+        },
+        {
+        "name": "Stainless Steel Polish",
+        "category": "Metal Care",
+        "description": "Polishes and protects stainless steel surfaces from corrosion and damage. Resists fingerprints and provides a high-gloss shine.",
+        "price": 83.99,
+        "features": [
+            { "name": "Stainless steel protection", "description": "Polishes and protects stainless steel surfaces from corrosion and damage." },
+            { "name": "Fingerprint-resistant", "description": "Resists fingerprints, keeping surfaces looking clean." },
+            { "name": "High shine", "description": "Provides a high-gloss shine, enhancing the appearance of stainless steel." }
+        ]
+        },
+        {
+        "name": "Odor Eliminator",
+        "category": "Air Care",
+        "description": "Neutralizes and eliminates unpleasant odors, leaving a clean and fresh atmosphere. Provides long-lasting freshness and is safe for all surfaces.",
+        "price": 84.79,
+        "features": [
+            { "name": "Odor neutralization", "description": "Neutralizes and eliminates unpleasant odors." },
+            { "name": "Long-lasting freshness", "description": "Provides long-lasting freshness that lingers in the air." },
+            { "name": "Safe for all surfaces", "description": "Can be safely used on various surfaces without causing damage." }
+        ]
+        },
+        {
+        "name": "All-Purpose Cleaner",
+        "category": "Surface Cleaner",
+        "description": "A versatile cleaner suitable for a wide range of surfaces. Effectively removes stains and dirt, leaving a fresh scent.",
+        "price": 85.99,
+        "features": [
+            { "name": "Multi-surface", "description": "Versatile cleaning solution suitable for various surfaces." },
+            { "name": "Stain removal", "description": "Effectively removes stains from surfaces." },
+            { "name": "Fresh scent", "description": "Leaves a pleasant and fresh fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Glass Cleaner",
+        "category": "Glass Care",
+        "description": "Formulated for a streak-free shine on glass surfaces. Achieves a crystal-clear finish and dries quickly.",
+        "price": 86.49,
+        "features": [
+            { "name": "Streak-free", "description": "Provides a clear shine on glass surfaces." },
+            { "name": "Crystal clear", "description": "Enhances the transparency of glass." },
+            { "name": "Quick-drying", "description": "Dries rapidly, saving time and leaving surfaces sparkling clean." }
+        ]
+        },
+        {
+        "name": "Floor Cleaner",
+        "category": "Floor Care",
+        "description": "Specially designed to protect and maintain the quality of different types of floors. Effectively removes stains and spills, leaving a refreshing fragrance.",
+        "price": 87.99,
+        "features": [
+            { "name": "Floor protection", "description": "Specially designed to protect and maintain the quality of different types of floors." },
+            { "name": "Stain removal", "description": "Effectively removes stains and spills from floors." },
+            { "name": "Refreshing fragrance", "description": "Leaves a refreshing and pleasant fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Bathroom Cleaner",
+        "category": "Bathroom Care",
+        "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment. Effectively removes and prevents mold, leaving a fresh scent.",
+        "price": 88.99,
+        "features": [
+            { "name": "Disinfecting", "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment." },
+            { "name": "Mold removal", "description": "Effectively removes and prevents mold in the bathroom." },
+            { "name": "Fresh scent", "description": "Leaves a fresh and clean aroma after use." }
+        ]
+        },
+        {
+        "name": "Stainless Steel Polish",
+        "category": "Metal Care",
+        "description": "Polishes and protects stainless steel surfaces from corrosion and damage. Resists fingerprints and provides a high-gloss shine.",
+        "price": 89.99,
+        "features": [
+            { "name": "Stainless steel protection", "description": "Polishes and protects stainless steel surfaces from corrosion and damage." },
+            { "name": "Fingerprint-resistant", "description": "Resists fingerprints, keeping surfaces looking clean." },
+            { "name": "High shine", "description": "Provides a high-gloss shine, enhancing the appearance of stainless steel." }
+        ]
+        },
+        {
+        "name": "Odor Eliminator",
+        "category": "Air Care",
+        "description": "Neutralizes and eliminates unpleasant odors, leaving a clean and fresh atmosphere. Provides long-lasting freshness and is safe for all surfaces.",
+        "price": 90.79,
+        "features": [
+            { "name": "Odor neutralization", "description": "Neutralizes and eliminates unpleasant odors." },
+            { "name": "Long-lasting freshness", "description": "Provides long-lasting freshness that lingers in the air." },
+            { "name": "Safe for all surfaces", "description": "Can be safely used on various surfaces without causing damage." }
+        ]
+        },
+        {
+        "name": "All-Purpose Cleaner",
+        "category": "Surface Cleaner",
+        "description": "A versatile cleaner suitable for a wide range of surfaces. Effectively removes stains and dirt, leaving a fresh scent.",
+        "price": 91.99,
+        "features": [
+            { "name": "Multi-surface", "description": "Versatile cleaning solution suitable for various surfaces." },
+            { "name": "Stain removal", "description": "Effectively removes stains from surfaces." },
+            { "name": "Fresh scent", "description": "Leaves a pleasant and fresh fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Glass Cleaner",
+        "category": "Glass Care",
+        "description": "Formulated for a streak-free shine on glass surfaces. Achieves a crystal-clear finish and dries quickly.",
+        "price": 92.49,
+        "features": [
+            { "name": "Streak-free", "description": "Provides a clear shine on glass surfaces." },
+            { "name": "Crystal clear", "description": "Enhances the transparency of glass." },
+            { "name": "Quick-drying", "description": "Dries rapidly, saving time and leaving surfaces sparkling clean." }
+        ]
+        },
+        {
+        "name": "Floor Cleaner",
+        "category": "Floor Care",
+        "description": "Specially designed to protect and maintain the quality of different types of floors. Effectively removes stains and spills, leaving a refreshing fragrance.",
+        "price": 93.99,
+        "features": [
+            { "name": "Floor protection", "description": "Specially designed to protect and maintain the quality of different types of floors." },
+            { "name": "Stain removal", "description": "Effectively removes stains and spills from floors." },
+            { "name": "Refreshing fragrance", "description": "Leaves a refreshing and pleasant fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Bathroom Cleaner",
+        "category": "Bathroom Care",
+        "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment. Effectively removes and prevents mold, leaving a fresh scent.",
+        "price": 94.99,
+        "features": [
+            { "name": "Disinfecting", "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment." },
+            { "name": "Mold removal", "description": "Effectively removes and prevents mold in the bathroom." },
+            { "name": "Fresh scent", "description": "Leaves a fresh and clean aroma after use." }
+        ]
+        },
+        {
+        "name": "Stainless Steel Polish",
+        "category": "Metal Care",
+        "description": "Polishes and protects stainless steel surfaces from corrosion and damage. Resists fingerprints and provides a high-gloss shine.",
+        "price": 95.99,
+        "features": [
+            { "name": "Stainless steel protection", "description": "Polishes and protects stainless steel surfaces from corrosion and damage." },
+            { "name": "Fingerprint-resistant", "description": "Resists fingerprints, keeping surfaces looking clean." },
+            { "name": "High shine", "description": "Provides a high-gloss shine, enhancing the appearance of stainless steel." }
+        ]
+        },
+        {
+        "name": "Odor Eliminator",
+        "category": "Air Care",
+        "description": "Neutralizes and eliminates unpleasant odors, leaving a clean and fresh atmosphere. Provides long-lasting freshness and is safe for all surfaces.",
+        "price": 96.79,
+        "features": [
+            { "name": "Odor neutralization", "description": "Neutralizes and eliminates unpleasant odors." },
+            { "name": "Long-lasting freshness", "description": "Provides long-lasting freshness that lingers in the air." },
+            { "name": "Safe for all surfaces", "description": "Can be safely used on various surfaces without causing damage." }
+        ]
+        },
+        {
+        "name": "All-Purpose Cleaner",
+        "category": "Surface Cleaner",
+        "description": "A versatile cleaner suitable for a wide range of surfaces. Effectively removes stains and dirt, leaving a fresh scent.",
+        "price": 97.99,
+        "features": [
+            { "name": "Multi-surface", "description": "Versatile cleaning solution suitable for various surfaces." },
+            { "name": "Stain removal", "description": "Effectively removes stains from surfaces." },
+            { "name": "Fresh scent", "description": "Leaves a pleasant and fresh fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Glass Cleaner",
+        "category": "Glass Care",
+        "description": "Formulated for a streak-free shine on glass surfaces. Achieves a crystal-clear finish and dries quickly.",
+        "price": 98.49,
+        "features": [
+            { "name": "Streak-free", "description": "Provides a clear shine on glass surfaces." },
+            { "name": "Crystal clear", "description": "Enhances the transparency of glass." },
+            { "name": "Quick-drying", "description": "Dries rapidly, saving time and leaving surfaces sparkling clean." }
+        ]
+        },
+        {
+        "name": "Floor Cleaner",
+        "category": "Floor Care",
+        "description": "Specially designed to protect and maintain the quality of different types of floors. Effectively removes stains and spills, leaving a refreshing fragrance.",
+        "price": 99.99,
+        "features": [
+            { "name": "Floor protection", "description": "Specially designed to protect and maintain the quality of different types of floors." },
+            { "name": "Stain removal", "description": "Effectively removes stains and spills from floors." },
+            { "name": "Refreshing fragrance", "description": "Leaves a refreshing and pleasant fragrance after cleaning." }
+        ]
+        },
+        {
+        "name": "Bathroom Cleaner",
+        "category": "Bathroom Care",
+        "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment. Effectively removes and prevents mold, leaving a fresh scent.",
+        "price": 100.99,
+        "features": [
+            { "name": "Disinfecting", "description": "Cleans and disinfects bathroom surfaces, ensuring a germ-free environment." },
+            { "name": "Mold removal", "description": "Effectively removes and prevents mold in the bathroom." },
+            { "name": "Fresh scent", "description": "Leaves a fresh and clean aroma after use." }
+        ]
+        },
+        {
+        "name": "Stainless Steel Polish",
+        "category": "Metal Care",
+        "description": "Polishes and protects stainless steel surfaces from corrosion and damage. Resists fingerprints and provides a high-gloss shine.",
+        "price": 101.99,
+        "features": [
+            { "name": "Stainless steel protection", "description": "Polishes and protects stainless steel surfaces from corrosion and damage." },
+            { "name": "Fingerprint-resistant", "description": "Resists fingerprints, keeping surfaces looking clean." },
+            { "name": "High shine", "description": "Provides a high-gloss shine, enhancing the appearance of stainless steel." }
+        ]
+        },
+        {
+        "name": "Odor Eliminator",
+        "category": "Air Care",
+        "description": "Neutralizes and eliminates unpleasant odors, leaving a clean and fresh atmosphere. Provides long-lasting freshness and is safe for all surfaces.",
+        "price": 102.79,
+        "features": [
+            { "name": "Odor neutralization", "description": "Neutralizes and eliminates unpleasant odors." },
+            { "name": "Long-lasting freshness", "description": "Provides long-lasting freshness that lingers in the air." },
+            { "name": "Safe for all surfaces", "description": "Can be safely used on various surfaces without causing damage." }
+        ]
+        }
+    ]
+    
